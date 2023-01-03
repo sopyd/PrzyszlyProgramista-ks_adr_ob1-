@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1672179791 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1672261735 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMeneger.h"
+
+1672171102 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\uzytkownik.h
+	<iostream>
+
+1671789685 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1672261722 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1671879871 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+	<sstream>
+
+1671879871 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\metodypomocnicze.h
+	<iostream>
+	<sstream>
+
+1672261324 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\uzytkownikmeneger.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+
+1672261525 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+
+1672179791 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\uzytkownikmeneger.cpp
+	"UzytkownikMeneger.h"
+
+1672260797 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt\21_sem_ksiazkaadresowa_obiekt\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+
+1671879871 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+	<sstream>
+
+1671879871 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\metodypomocnicze.h
+	<iostream>
+	<sstream>
+
+1671789685 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1672171102 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\uzytkownik.h
+	<iostream>
+
+1672179791 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\uzytkownikmeneger.cpp
+	"UzytkownikMeneger.h"
+
+1672262931 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\uzytkownikmeneger.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	"Uzytkownik.h"
+	"PlikZUzytkownikami.h"
+
+1672393108 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+
+1672262931 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1672262931 d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMeneger.h"
+
+1672262931 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\main.cpp
+	<iostream>
+	"KsiazkaAdresowa.h"
+
+1672393508 source:d:\moje_programy_c++\21_sem_ksiazkaadresowa_obiekt zadanie\21_sem_ksiazkaadresowa_obiekt\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+
